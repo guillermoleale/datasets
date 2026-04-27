@@ -1,0 +1,53 @@
+id_venta,fecha,sucursal,producto,categoria,cantidad,precio_unitario
+1,2025-04-10,Cordoba,Queso Cremoso,lacteos,7.0,1649.71
+2,2025-02-18,SANTA FE,Aceite de Oliva,Aceites,1.0,6534.7
+3,01/10/2025,Bs As,Aceite de Oliva,Aceites,3.0,8323.54
+4,04-02-2025,Rosario,Aceite de Oliva,Aceites,15.0,7514.96
+5,13-02-2025,SANTA FE,Aceite de Oliva,Aceites,10.0,860.1
+6,07-10-2025,SANTA FE,Dulce de Leche,Dulces,8.0,9094.18
+7,2025-03-04,Sta Fe,Dulce de Leche,Dulces,7.0,5041.14
+8,25-09-2025,Bs As,Mermelada de Durazno,Dulces,10.0,1832.49
+9,2025-04-11,Santa Fe,Queso Cremoso,Lacteos,12.0,10702.95
+10,2025-06-28,CORDOBA,Yerba Mate,Infusiones,,8672.62
+11,05/02/2025,Cordoba,Yerba Mate,Infusiones,5.0,5219.4
+12,18-04-2025,Bs As,Vino Malbec,Bebidas,13.0,1713.18
+13,2025-08-21,Rosario,Mermelada de Durazno,dulces,1.0,$7948.44
+14,06/04/2025,Sta Fe,Mermelada de Durazno,Dulces,10.0,11343.46
+15,2025-03-22,Buenos Aires,Mate Cocido,Infusiones,7.0,3960.1
+16,09-06-2025,Cba,ACEITE DE OLIVA,Aceites,1.0,2166.29
+17,28/08/2025,Santa Fe,Dulce de Leche,Dulces,6.0,7771.52
+18,18/07/2025,Cba,Vino Malbec,Bebidas,,6389.07
+19,09-09-2025,Santa Fe,Mermelada de Durazno,Dulces,18.0,10589.4
+20,2025-08-21,Buenos Aires,Dulce de Leche,Dulces,12.0,10650.32
+21,14-04-2025,Bs As,Mermelada de Durazno,dulces,1.0,1467.61
+22,18/06/2025,Sta Fe,  Mate Cocido  ,infusiones,14.0,8456.79
+23,22-01-2025,CORDOBA,Mate Cocido,Infusiones,8.0,8062.55
+24,2025-05-27,Bs As,Mate Cocido,Infusiones,2.0,7918.69
+25,07/10/2025,Buenos Aires,Mermelada de Durazno,Dulces,14.0,$4756.83
+26,11-08-2025,Bs As,  Alfajores  ,Dulces,1.0,2449.17
+27,14/04/2025,SANTA FE,Mermelada de Durazno,Dulces,2.0,3895.84
+28,05/02/2025,Santa Fe,Mate Cocido,Infusiones,3.0,7532.41
+29,2025-07-05,Bs As,Mermelada de Durazno,Dulces,2.0,8228.3
+30,21/09/2025,Rosario,Mate Cocido,Infusiones,10.0,4642.19
+31,04-05-2025,CORDOBA,Dulce de Leche,Dulces,15.0,2091.06
+32,09-05-2025,SANTA FE,Yerba Mate,Infusiones,5.0,1430.04
+33,2025-07-11,BUENOS AIRES,Queso Cremoso,Lacteos,8.0,7840.11
+34,2025-03-10,Santa Fe,ALFAJORES,dulces,19.0,665.53
+35,23-01-2025,Cordoba,  Mate Cocido  ,Infusiones,16.0,4482.5
+36,2025-01-04,Cordoba,ALFAJORES,Dulces,19.0,10349.63
+37,06/03/2025,Cordoba,Dulce de Leche,Dulces,1.0,6774.59
+38,25/04/2025,BUENOS AIRES,VINO MALBEC,Bebidas,17.0,4932.06
+39,2025-07-11,CORDOBA,Aceite de Oliva,Aceites,4.0,11627.18
+40,13/10/2025,Cordoba,Mermelada de Durazno,Dulces,5.0,8318.21
+41,2025-09-22,Sta Fe,Dulce de Leche,Dulces,,11523.23
+42,2025-02-22,Cordoba,Queso Cremoso,Lacteos,5.0,4279.64
+43,27/08/2025,CORDOBA,  Queso Cremoso  ,Lacteos,5.0,6778.03
+44,13/07/2025,Buenos Aires,Dulce de Leche,Dulces,13.0,5061.49
+45,2025-03-11,Bs As,Mate Cocido,Infusiones,17.0,11839.01
+46,08-08-2025,Cba,Dulce de Leche,Dulces,19.0,$6165.19
+47,27-04-2025,SANTA FE,Dulce de Leche,Dulces,1.0,3231.32
+48,16/02/2025,CORDOBA,ALFAJORES,Dulces,5.0,8497.23
+49,29-09-2025,Buenos Aires,Queso Cremoso,Lacteos,16.0,11025.42
+50,2025-02-10,CORDOBA,Dulce de Leche,Dulces,8.0,7212.05
+5,13-02-2025,SANTA FE,Aceite de Oliva,Aceites,10.0,860.1
+12,18-04-2025,Bs As,Vino Malbec,Bebidas,13.0,1713.18
