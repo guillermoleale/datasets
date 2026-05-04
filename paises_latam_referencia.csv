@@ -1,0 +1,11 @@
+codigo,pais,capital,region,subregion,idioma_oficial
+ARG,Argentina,Buenos Aires,LATAM,Cono Sur,espanol
+BRA,Brasil,Brasilia,LATAM,Cono Sur,portugues
+CHL,Chile,Santiago,LATAM,Cono Sur,espanol
+COL,Colombia,Bogota,LATAM,Andina,espanol
+MEX,Mexico,Ciudad de Mexico,LATAM,Norte,espanol
+URY,Uruguay,Montevideo,LATAM,Cono Sur,espanol
+PER,Peru,Lima,LATAM,Andina,espanol
+ECU,Ecuador,Quito,LATAM,Andina,espanol
+BOL,Bolivia,La Paz,LATAM,Andina,espanol
+PRY,Paraguay,Asuncion,LATAM,Cono Sur,espanol

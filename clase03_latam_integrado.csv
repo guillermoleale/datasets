@@ -1,0 +1,6 @@
+codigo,anio,pbi_usd,poblacion,esperanza_vida,pbi_per_capita_usd,pais,capital,region,subregion,idioma_oficial
+CHL,2024,330267137371.592,19764771.0,81.359,16710.0,Chile,Santiago,LATAM,Cono Sur,espanol
+MEX,2024,1856365616165.94,130861007.0,75.264,14186.0,Mexico,Ciudad de Mexico,LATAM,Norte,espanol
+ARG,2024,638365455340.04,45696159.0,77.543,13970.0,Argentina,Buenos Aires,LATAM,Cono Sur,espanol
+BRA,2024,2185821648943.86,211998573.0,76.023,10311.0,Brasil,Brasilia,LATAM,Cono Sur,portugues
+COL,2024,418818154879.271,52886363.0,77.913,7919.0,Colombia,Bogota,LATAM,Andina,espanol
